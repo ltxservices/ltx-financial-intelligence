@@ -55,18 +55,18 @@ La arquitectura propuesta combina ingeniería de datos, modelización financiera
 
 ### Flujo Conceptual
 
-ERP / Sistemas Operativos
-↓
-Integración de Datos
-↓
-Procesamiento y Validación de Datos
-↓
-Modelo de Datos Financieros
-↓
-Analytics y KPIs
-↓
-Dashboard de Business Intelligence
-↓
+ERP / Sistemas Operativos  
+↓  
+Integración de Datos  
+↓  
+Procesamiento y Validación de Datos  
+↓  
+Modelo de Datos Financieros  
+↓  
+Analytics y KPIs  
+↓  
+Dashboard de Business Intelligence  
+↓  
 Soporte a la Toma de Decisiones
 
 ---
