@@ -1,3 +1,7 @@
+### 🌐 Idioma
+
+🇧🇷 [Português](README.md) | 🇺🇸 [English](README_EN.md) | 🇪🇸 Español
+
 # LTX Financial Intelligence
 
 ## Financial Intelligence Platform for Industrial Operations
